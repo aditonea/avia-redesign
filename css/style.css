@@ -56,13 +56,30 @@
   opacity: 0.6;
 }
 
+.importator .piaggio-div {
+  display: flex;
+  border-right: 2px solid var(--grey-avia);
+  margin-right: 15px;
+}
+
+.importator-porsche {
+  display: flex;
+  border-right: 2px solid var(--grey-avia);
+  margin-right: 15px;
+}
+
+.right-border {
+  border-right: 2px solid rgba(137, 138, 141, 0.5);
+  margin-right: 18px;
+}
+
 .header-logos img {
-  height: 45px;
+  height: 35px;
   margin-right: 25px;
 }
 
 .header-logos img.small {
-  height: 30px;
+  height: 20px;
 }
 
 .header--slider {
@@ -126,7 +143,7 @@
 
 .header-menu li {
   font-family: urw-black;
-  font-size: 15px;
+  font-size: 13px;
   color: var(--grey-avia);
 }
 
